@@ -1,8 +1,8 @@
 {
   "projects": {
+    "backend": "git@github.com:theopensystemslab/planx-backend",
     "local-authority-api": "git@github.com:theopensystemslab/planx-local-authority-api",
-    "socket-server": "git@github.com:theopensystemslab/planx-socket-server",
-    "backend": "git@github.com:theopensystemslab/backend",
-    "planx": "git@github.com:theopensystemslab/planx"
+    "planx": "git@github.com:theopensystemslab/planx",
+    "socket-server": "git@github.com:theopensystemslab/planx-socket-server"
   }
 }
