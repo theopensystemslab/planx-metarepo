@@ -1,4 +1,5 @@
-local-authority-api
-socket-server
-backend
-planx
+/local-authority-api
+/socket-server
+/backend
+/planx
+/planx-editor

@@ -12,7 +12,8 @@ To install specific repositories you can add flags to the end of the command e.g
 | ------------------------------------------------------------------------------------- | ----------------------------------- | ------- |
 | [backend](https://github.com/theopensystemslab/planx-backend)                         | ruby on rails API and basic CMS     | private |
 | [local-authority-api](https://github.com/theopensystemslab/planx-local-authority-api) | node API for accessing council data | private |
-| [planx](https://github.com/theopensystemslab/planx)                                   | react frontend and editor           | private |
+| [planx](https://github.com/theopensystemslab/planx)                                   | react frontend and (old) editor     | private |
+| [planx-editor](https://github.com/theopensystemslab/planx-editor)                     | new policy editor                   | private |
 | [socket-server](https://github.com/theopensystemslab/planx-socket-server)             | node socket.io server               | private |
 
 ## Usage
