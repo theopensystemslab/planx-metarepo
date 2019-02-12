@@ -7,9 +7,9 @@ File.open("Procfile", 'w') do |file|
 
       new_line = [prefix, line].join('-')
 
-      before, after = new_line.split(":")
+      before, *after = new_line.split(":")
 
-      file.write("#{before}: cd '#{prefix}' && #{after}")
+      file.write("#{before}: cd '#{prefix}' && #{after.join}")
     end
   end
 end
