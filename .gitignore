@@ -3,3 +3,5 @@
 /local-authority-api
 /planx
 /socket-server
+/node_modules
+Procfile

@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "bin/start.rb && nf start"
+  },
+  "devDependencies": {
+    "foreman": "^3.0.1"
+  }
+}
