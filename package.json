@@ -1,8 +1,9 @@
 {
   "scripts": {
-    "start": "bin/start.rb && nf start"
+    "start": "git pull && yarn && meta exec yarn && bin/start.rb && nf start"
   },
   "devDependencies": {
-    "foreman": "^3.0.1"
+    "foreman": "^3.0.1",
+    "meta": "^1.2.16"
   }
 }
