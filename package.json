@@ -1,4 +1,5 @@
 {
+  "license": "MPL-2.0",
   "scripts": {
     "start": "git pull && yarn && meta exec yarn && bin/start.rb && nf start"
   },
