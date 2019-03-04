@@ -1,5 +1,6 @@
 {
   "projects": {
+    "api": "git@github.com:theopensystemslab/planx-api",
     "backend": "git@github.com:theopensystemslab/planx-backend",
     "editor": "git@github.com:theopensystemslab/planx-editor",
     "local-authority-api": "git@github.com:theopensystemslab/planx-local-authority-api",
